@@ -90,7 +90,7 @@ Important: the bot role must be above the roles it needs to assign, remove, mute
 1. Open a terminal in the project folder:
 
 ```bash
-cd /Users/rishavkumar/Documents/Codex/2026-05-10/build-a-complete-discord-bot-in
+cd ~/Desktop/SmartAdmin
 ```
 
 2. Create a virtual environment:
